@@ -1,0 +1,43 @@
+
+.jukebox{
+  height:300px;
+}
+#status{
+  color:red;
+}
+
+.red{
+  background-color:red;
+  display:none;
+  height:300;
+}
+.green{
+  background-color:green;
+  height:300;
+}
+.yellow{
+  background-color:yellow;
+  height:300;
+}
+.frame{
+  overflow:hidden;
+  height:300px;
+
+}
+.smokey{
+  width:800px;
+  display:none;
+
+}
+
+.freddy{
+  position:relative;
+  left:3000;
+  down:3000;
+  display:inline-block;
+  height:300;
+}
+.mitch{
+  display:none;
+  height:300;
+}
